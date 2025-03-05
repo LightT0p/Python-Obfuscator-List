@@ -24,6 +24,8 @@ Notation:
   
   | Notation:  🔴
 
+
+
 2. Pyobfuscate
   | Link: https://pyobfuscate.com/pyd
 
@@ -39,6 +41,8 @@ Notation:
   
   | Notation:  (🔴 if you have a deobfuscator) else 🔵
 
+
+
 3. Hyperion
   | Link: https://github.com/billythegoat356/Hyperion
 
@@ -49,6 +53,8 @@ Notation:
   | De-Obfuscator: https://github.com/xKiian/Hyperion-deobfuscator
 
   | Notation: (🔴 if you have a deobfuscator) else 🟢
+
+
 
 4. Specter
   | Link: https://github.com/billythegoat356/Specter
