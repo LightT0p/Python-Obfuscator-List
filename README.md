@@ -5,5 +5,5 @@
 Notation:
 | Emoji Corresponding  | Hardness of deobfuscation |
 |     -------------    |       -------------       |
-|          🔴          |           Easy            |
-|     🟡     |           Medium          |
+|  🔴  |  Easy     |
+|  🟡  |  Medium   |
